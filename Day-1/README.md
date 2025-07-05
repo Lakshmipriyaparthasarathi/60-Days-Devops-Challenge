@@ -1,15 +1,6 @@
-# Day 1: Linux Basics
-
-## ✅ Topics Covered:
-- Linux file system structure
-- Basic file/directory commands (`ls`, `cd`, `mkdir`, `touch`)
-- Permissions (`chmod`, `chown`)
-- Shell scripts and log handling
-
-## 📁 Folder Structure:
-- `logs/` — sample log files
-- `demo/scripts/` — basic shell scripts
-- `file1.txt` — test file
-
-## 📌 Notes:
-This day focuses on foundational Linux commands and file management techniques.
+# Day 1: Linux Basics - Files, Permissions, and Directories
+This folder contains all files and scripts related to Day 1 of the 60-Days DevOps Challenge.
+- demo/scripts: Shell script examples
+- logs: Output logs from sample commands
+- file1.txt: Sample file for testing permissions and commands
+- file1.txt: Sample file for testing permissions and commands
