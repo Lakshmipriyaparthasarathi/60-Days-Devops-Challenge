@@ -1,0 +1,13 @@
+VNotes for Day 3 - Git & GitHub:
+
+- `git init`: Initialize a Git repository
+- `git status`: Check current changes
+- `git add`: Stage files for commit
+- `git commit -m "message"`: Commit staged files
+- `git branch <branch-name>`: Create a new branch
+- `git checkout <branch-name>`: Switch to the branch
+- `git merge <branch-name>`: Merge a branch into the current branch
+- `git push origin <branch-name>`: Push changes to GitHub
+
+Commands practiced and tested successfully!
+
